@@ -19,3 +19,6 @@ vi names.csv
 ```
 - Insert random names
 
+![names.csv](https://github.com/akinolafusi/Aux-Project-1/blob/a5be8bf37db3da118cc85c6ed011a95e7f93d949/names.PNG)
+
+
