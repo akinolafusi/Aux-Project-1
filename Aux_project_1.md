@@ -1,24 +1,12 @@
 # AUX PROJECT 1: SHELL SCRIPTING
 
-- Create a project folder called Shell
-```c
-mkdir shell
-```
-- Move into the Shell folder
+- The recording showing the script and the new users:
+-aina, sharon and oladele.
+- The recording below shows the script at work and the demo as I ssh into the remote server using the public key.
+- Here is the script
+![]()
 
-```
-cd shell
-```
-- Create a csv file name names.csv
-```
-touch names.csv
-```
-- Open the names.csv file
-```
-vi names.csv
-```
-- Insert random names
+- in this demo user "aina" was used to ssh into the remote server.
 
-![names.csv](https://github.com/akinolafusi/Aux-Project-1/blob/a5be8bf37db3da118cc85c6ed011a95e7f93d949/names.PNG)
 
 
