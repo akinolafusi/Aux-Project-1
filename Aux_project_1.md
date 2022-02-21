@@ -9,6 +9,10 @@
 
 - in this demo user "aina" was used to ssh into the remote server.
 
+- Here is the video
+
+![](https://github.com/akinolafusi/Aux-Project-1/blob/13d4d8c7626cf8f20d7b928ecf82c7cbe7beadb2/onboarding%20users.mp4)
+
 
 
 
